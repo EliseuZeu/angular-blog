@@ -22,7 +22,7 @@
   color: grey;
 }
 
-.container-big-card > img {
+.big-card-photo > img {
   width: 100%;
   min-width: 400px;
 }
